@@ -14,35 +14,33 @@
   </a>
 </p>
 
- 
-## <samp>My Tech Stack </samp>
 
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/suhairshareef" target="_blank">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCss"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code"/>
+  </a>
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-
-## <samp>States</samp>
+## <samp>**States**</samp>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SuhairShareef&count_private=true&theme=dracula&hide_border=true" alt = "SuhairShareef's Contribution" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=SuhairShareef&count_private=true&theme=dracula&hide_border=true&show_icons=true" alt = "SuhairShareef's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SuhairShareef&count_private=true&theme=dracula&hide_border=true" alt = "SuhairShareef's Rating" width = 400 >
-
 </p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuhairShareef&langs_count=6&layout=compact" alt = "SuhairShareef's Rating" width = 400 >
+</p>
 
-<br />
-<h2>Visitors 👀</h2>
-<div>
+<br/>
+<div align="center">
   <img src="https://profile-counter.glitch.me/suhairshareef/count.svg"></img>
 </div>
 
