@@ -1,7 +1,7 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a senior computer engineering student  ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a software backend engineer  ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/TJmoBmGk4XXkcI6P3t/giphy.gif">
 </p>
 
 
